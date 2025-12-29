@@ -1,0 +1,31 @@
+# The Land of Wolves RP - Horse Sharing Script
+# .gitignore
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vs/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# Build/Cache Files
+cache/
+logs/
+
+# Personal Notes (don't commit your server-specific notes)
+notes.txt
+TODO.txt
+dev-notes.md
